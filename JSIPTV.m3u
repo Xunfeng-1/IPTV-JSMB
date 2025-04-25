@@ -168,8 +168,6 @@ http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/半岛新闻.png" group-title="海外频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="AXS TV Now" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png" group-title="海外频道",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CBNNews.png" group-title="海外频道",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RT.png" group-title="海外频道",RT News
@@ -177,5 +175,4 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT06" tvg-name="RT Doc" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTDoc.png" group-title="海外频道",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTDoc.png" group-title="海外频道",HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
