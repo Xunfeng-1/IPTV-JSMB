@@ -112,42 +112,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 
-#江苏地方
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏城市.png" group-title="江苏地方",江苏城市
-http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏新闻.png" group-title="江苏地方",江苏新闻
-http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏综艺.png" group-title="江苏地方",江苏综艺
-http://ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏影视.png" group-title="江苏地方",江苏影视
-http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏教育.png" group-title="江苏地方",江苏教育
-http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏体育休闲.png" group-title="江苏地方",江苏体育•休闲
-http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京少儿.png" group-title="江苏地方",南京少儿
-http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京教科.png" group-title="江苏地方",南京教科
-http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京影视.png" group-title="江苏地方",南京影视
-http://ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京文旅纪录.png" group-title="江苏地方",南京文旅纪录
-http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京新闻综合.png" group-title="江苏地方",南京新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京十八生活.png" group-title="江苏地方",南京十八•生活
-http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/无锡新闻综合.png" group-title="江苏地方",无锡新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州新闻综合.png" group-title="江苏地方",常州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州都市.png" group-title="江苏地方",常州都市
-http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
-#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州生活.png" group-title="江苏地方",常州生活
-http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州公共.png" group-title="江苏地方",常州公共
-http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png" group-title="港澳频道",凤凰卫视香港台
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
@@ -189,6 +153,8 @@ http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 #EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVBSS.png" group-title="海外频道",东森幼幼
 http://122.117.71.103:8515/http/220.130.87.218:8081/hls/63/805/ch009.m3u8
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVBSS.png" group-title="海外频道",东森综合
+http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #海外频道
 #EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png" group-title="海外频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
