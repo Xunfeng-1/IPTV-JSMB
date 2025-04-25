@@ -173,8 +173,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://tv.cdn5.rr.nu/live/rthk31/stream.m3u8
 #EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK32.png" group-title="港澳频道",港台电视32
 http://tv.cdn5.rr.nu/live/rthk32/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV1.png" group-title="港澳频道",CCTV1
-http://tv.cdn5.rr.nu/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NOW新闻台.png" group-title="港澳频道",NOW新闻台
 http://mytv.cdn.com.mp/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Discovery.png" group-title="港澳频道",Discovery
