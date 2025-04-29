@@ -168,7 +168,7 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:64:36:64&stream=45595&extensio
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/纬来体育.png" group-title="海外频道",纬来体育
 http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 #EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NBATV.png" group-title="海外频道",NBATV
-http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #海外频道
 #EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png" group-title="海外频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
